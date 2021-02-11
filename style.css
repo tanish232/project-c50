@@ -1,0 +1,13 @@
+.header{
+        display:flex;
+        justify-content: space-between;
+        
+}
+.origami{
+        display:flex;
+        flex-wrap: wrap;
+        border:solid;
+        border-radius: 50px;
+        width:310px;
+        font-family: fantasy;
+    }
